@@ -1,4 +1,4 @@
-# Sense Cube device project
+# "Sense Cube" device project
 
 ## Directory description:
 
