@@ -1,0 +1,13 @@
+{
+  "Cube_id": "4c7525c304e4",
+  "MQTT_server": "m8.wqtt.ru",
+  "MQTT_port": 12746,
+  "MQTT_user": "u_F44SPF",
+  "MQTT_password": "7y1SktQZ",
+  "wifi_ssid": "Beerloga",
+  "wifi_password": "tm9044725501",
+  "start_ftp": true,
+  "dock_sense": 0,
+  "nodock_sense": 0
+  
+}
